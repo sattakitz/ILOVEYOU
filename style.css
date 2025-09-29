@@ -1,3 +1,6 @@
+html,body {
+background-color : #000;
+}
 .grid {
   display: grid;
   grid-template-columns: repeat(60, 10px);
